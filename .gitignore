@@ -7,9 +7,12 @@
 *.bak
 *.bck
 *.kicad_pcb-bak
+*.zip
 
 # KiCad generated files
 *.erc
 *.net
 *-cache.lib
+*-cache
 *-rescue.lib
+*_autosave-*.kicad_sch
